@@ -268,25 +268,27 @@ O sistema implementa tratamento robusto de erros:
 - **Compatibilidade**: Java 8+, MySQL 5.7+
 
 ### Equipe de Desenvolvimento
-- Desenvolvedor: Erick Lima
-- RA: 244950262
-- Curso: Análise e Desenvolvimento de Sistemas
-- Disciplina: Análise e Projeto Orientado a Objetos
 
-- Desenvolvedor: André Roberto
-- RA:
-- Curso: Análise e Desenvolvimento de Sistemas
-- Disciplina: Análise e Projeto Orientado a Objetos
+- Desenvolvedor: Erick Lima  
+  - RA: 244950262  
+  - Curso: Análise e Desenvolvimento de Sistemas  
+  - Disciplina: Análise e Projeto Orientado a Objetos
 
-- Desenvolvedor: Felipe Fernandes
-- RA: 242062022
-- Curso: Análise e Desenvolvimento de Sistemas
-- Disciplina: Análise e Projeto Orientado a Objetos
+- Desenvolvedor: André Roberto  
+  - RA: (em aberto)  
+  - Curso: Análise e Desenvolvimento de Sistemas  
+  - Disciplina: Análise e Projeto Orientado a Objetos
 
-- Desenvolvedor: Leonardo Tomaz
-- RA: 240509852
-- Curso: Análise e Desenvolvimento de Sistemas
-- Disciplina: Análise e Projeto Orientado a Objetos
+- Desenvolvedor: Felipe Fernandes  
+  - RA: 242062022  
+  - Curso: Análise e Desenvolvimento de Sistemas  
+  - Disciplina: Análise e Projeto Orientado a Objetos
+
+- Desenvolvedor: Leonardo Tomaz  
+  - RA: 240509852  
+  - Curso: Análise e Desenvolvimento de Sistemas  
+  - Disciplina: Análise e Projeto Orientado a Objetos
+
 
 
 ### Licença
