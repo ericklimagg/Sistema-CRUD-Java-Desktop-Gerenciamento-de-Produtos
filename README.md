@@ -101,10 +101,10 @@ private static final String PASSWORD = "sua_senha_aqui";
 #### Via Linha de Comando
 ```bash
 # Compilar
-javac -cp ".:mysql-connector-java-8.0.33.jar" *.java **/*.java
+javac -cp ".;mysql-connector-j-9.3.0.jar" Main.java
 
 # Executar
-java -cp ".:mysql-connector-java-8.0.33.jar" Main
+java -cp ".;mysql-connector-j-9.3.0.jar" Main
 ```
 
 ## Manual de Uso
@@ -275,7 +275,7 @@ O sistema implementa tratamento robusto de erros:
   - Disciplina: Análise e Projeto Orientado a Objetos
 
 - Desenvolvedor: André Roberto  
-  - RA: (em aberto)  
+  - RA: 240509842 
   - Curso: Análise e Desenvolvimento de Sistemas  
   - Disciplina: Análise e Projeto Orientado a Objetos
 
